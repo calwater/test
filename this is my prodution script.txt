@@ -2,4 +2,7 @@ This is a new file.
 
 Showing Peter how to do this.
 
-Amlost done.
+Amlost done.'
+
+
+SQL script to fix rms issue.
