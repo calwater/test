@@ -1,19 +1,12 @@
-Best code eva!!!!
 
 
-ach?
-
-oooh?
+<?php
 
 
-xXXXXxx
+for (var i=0; i < 10; i++) {
 
-B+A = C
+echo "hello world! " . i;
 
-<?php????>
+}
 
 
-https://github.com/calwater/test
-https://github.com/calwater/test
-https://github.com/calwater/test
-https://github.com/calwater/test
